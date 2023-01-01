@@ -1,3 +1,4 @@
 # 内容：Anx
-# 数量：1条
+# 数量：2条
+SRC-IP-CIDR,192.168.234.128/32,no-resolve
 SRC-IP-CIDR,192.168.234.200/32,no-resolve
