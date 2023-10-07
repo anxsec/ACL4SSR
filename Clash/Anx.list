@@ -1,4 +1,3 @@
 # 内容：Anx
-# 数量：2条
-PROCESS-NAME,qBittorrent
-PROCESS-NAME,qbittorrent.exe
+# 数量：1条
+SRC-IP-CIDR,192.168.234.185/32,no-resolve
